@@ -1,8 +1,6 @@
-# lesson_1
+# AppBar
 
-A new Flutter project.
+Full Example For AppBar Widget
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## FlutterEgypt
+https://www.facebook.com/FlutterEgypt/
